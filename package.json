@@ -1,0 +1,18 @@
+{
+  "name": "bot-telegram",
+  "version": "1.0.0",
+  "description": "A project with node about a telegram bot for my friends and me, just for fun 🤖",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "telegram",
+    "bot",
+    "telegraf",
+    "javascript"
+  ],
+  "author": "Juan Sabastian Agudelo <juansac.me@gmail.com>",
+  "license": "MIT"
+}
