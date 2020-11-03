@@ -2,7 +2,7 @@
 
 ## Antes de usar 🤭
 
-- Configura yus variables de entorno
+- Configura tus variables de entorno
 - Configura tus saludos y comandos
 
 
