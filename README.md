@@ -1,6 +1,12 @@
 <h1 align="center">Prettie Bot</h1>
 
-## Intalation 🚀
+## Antes de usar 🤭
+
+- Configura yus variables de entorno
+- Configura tus saludos y comandos
+
+
+## Instalación 🚀
 
 1. Clona este repo.
 2. Ve a la carpeta del proyecto
@@ -13,12 +19,12 @@
 `npm run dev`
 ---
 
-## Documentacion 📂
+## Documentación 📂
 
 * [API Telegram](https://core.telegram.org/bots/api)
 * [Libreria utilizada](https://github.com/yagop/node-telegram-bot-api)
 ---
-## Contributing
+## Contribución
 Si quieres contribuir a este proyecto, te invito a que me hagas un Pull Request a este repositorio:
 [telegram-prettie-bot](https://github.com/juansacok/telegram-prettie-bot)
 
