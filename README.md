@@ -29,6 +29,6 @@ The MIT License (MIT)
 ---
 <footer align="center">
 
- > Hecho con 🖤 por [JuansacOk](https://twitter.com/JuansacOk)
+ _Hecho con_ 🖤 _por_ [JuansacOk](https://twitter.com/JuansacOk)
 
  </footer>
