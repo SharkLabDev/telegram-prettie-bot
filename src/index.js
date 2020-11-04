@@ -4,7 +4,6 @@ const TELEGRAM_TOKEN = process.env.TELEGRAM_TOKEN;
 
 const bot = new TelegramBot(TELEGRAM_TOKEN, {polling:true});
 
-// Create a bot that uses 'polling' to fetch new updates
 bot.on('polling_error', error => console.log(error))
 
 bot.onText(/^\/start/, msg => {
